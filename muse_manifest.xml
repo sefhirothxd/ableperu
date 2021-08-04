@@ -1,0 +1,49 @@
+<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ablelatinoamerica.com" resolutions="1x" timestamp="1487877117122">
+  <folder name="css">
+    <file name="site_global.css" crc="147592445"/>
+    <file name="index.css" crc="4036246438" ref="index"/>
+    <file name="nomq_index.css" crc="3769556073" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index"/>
+    <file name="museutils.js" crc="4190794036" ref="index"/>
+    <file name="whatinput.js" crc="84559013" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3866264083" ref="index"/>
+    <file name="jquery.watch.js" crc="349565855" ref="index"/>
+    <file name="webpro.js" crc="488283310" ref="index"/>
+    <file name="form_check.php" crc="430210585" ref="index"/>
+    <file name="form_throttle.php" crc="282343929" ref="index"/>
+    <file name="form_process.php" crc="339897355" ref="index"/>
+    <file name="form-u1140.php" crc="337630825" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3792042506" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="408737887" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="able-logo-blanco-u12016.png" crc="3958569065" ref="index"/>
+    <file name="fondo.jpg" crc="168414022" seo="true" ref="index"/>
+    <file name="lb-i.png" crc="4061327979" seo="true" ref="index"/>
+    <file name="tecle-ratchet-lbi.png" crc="4229327996" seo="true" ref="index"/>
+    <file name="tecle-manual-cbii-1.png" crc="3804303003" seo="true" ref="index"/>
+    <file name="tecle-manual-mando-360.png" crc="3814498699" seo="true" ref="index"/>
+    <file name="u1150-17.png" crc="512000464" ref="index"/>
+    <file name="u1150-17-r.png" crc="512000464" ref="index"/>
+    <file name="u1150-17-m.png" crc="270384760" ref="index"/>
+    <file name="u1150-17-fs.png" crc="512000464" ref="index"/>
+    <file name="fondo-footer.jpg" crc="3847908383" ref="index"/>
+    <file name="able-logo-blanco-u120162.png" crc="3958569065" ref="index"/>
+    <file name="fondo-u12006.png" crc="3851260285" ref="index"/>
+    <file name="u1150-172.png" crc="512000464" ref="index"/>
+    <file name="u1150-17-r2.png" crc="512000464" ref="index"/>
+    <file name="u1150-17-m2.png" crc="270384760" ref="index"/>
+    <file name="u1150-17-fs2.png" crc="512000464" ref="index"/>
+    <file name="able-logo-blanco-u120163.png" crc="310892500" ref="index"/>
+    <file name="fondo-u120062.png" crc="4045434077" ref="index"/>
+    <file name="u1150-173.png" crc="3845527714" ref="index"/>
+    <file name="u1150-17-r3.png" crc="3845527714" ref="index"/>
+    <file name="u1150-17-m3.png" crc="359917082" ref="index"/>
+    <file name="u1150-17-fs3.png" crc="3845527714" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="58797720" seo="true" mt="1487877063762" redirect="true"/>
+</manifest>
